@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **joylinks**
+ 🔭 I’m currently working on **Joylinks**
  
- 🌱 I’m currently learning **Vue**
+ 🌱 I’m currently learning **VueJs**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
